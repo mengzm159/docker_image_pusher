@@ -10,7 +10,7 @@
 # php
 # mysql
 # tomcat
-python:3.5
-# redis
+# python:3.5
+redis
 # mongo
 # httpd
