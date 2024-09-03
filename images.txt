@@ -9,8 +9,8 @@
 # node
 # php
 # mysql
-tomcat
-# python:3.5
+# tomcat
+python:3.5
 # redis
 # mongo
 # httpd
