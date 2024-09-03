@@ -5,12 +5,12 @@
 # 支持指定架构
 # --platform=linux/arm64 xiaoyaliu/alist
 # ubuntu:15.10
-# centos7
+# centos:centos7.9.2009
 # node
 # php
 # mysql
 # tomcat
 # python:3.5
-redis
-# mongo
+# redis
+mongo
 # httpd
