@@ -7,8 +7,8 @@
 # ubuntu:15.10
 # centos7
 # node
-php
-# mysql
+# php
+mysql
 # tomcat
 # python:3.5
 # redis
