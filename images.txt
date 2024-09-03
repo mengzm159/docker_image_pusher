@@ -8,8 +8,8 @@
 # centos7
 # node
 # php
-mysql
-# tomcat
+# mysql
+tomcat
 # python:3.5
 # redis
 # mongo
