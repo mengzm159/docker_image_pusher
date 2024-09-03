@@ -6,11 +6,11 @@
 # --platform=linux/arm64 xiaoyaliu/alist
 # ubuntu:15.10
 centos/centos7
-node
-php
-mysql
-tomcat
-python:3.5
-redis
-mongo
-httpd
+# node
+# php
+# mysql
+# tomcat
+# python:3.5
+# redis
+# mongo
+# httpd
