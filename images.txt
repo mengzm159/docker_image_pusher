@@ -6,8 +6,8 @@
 # --platform=linux/arm64 xiaoyaliu/alist
 # ubuntu:15.10
 # centos7
-node
-# php
+# node
+php
 # mysql
 # tomcat
 # python:3.5
