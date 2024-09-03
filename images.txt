@@ -5,7 +5,7 @@
 # 支持指定架构
 # --platform=linux/arm64 xiaoyaliu/alist
 # ubuntu:15.10
-centos/centos7
+centos7
 # node
 # php
 # mysql
