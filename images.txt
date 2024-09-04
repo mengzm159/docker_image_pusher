@@ -14,4 +14,4 @@
 # redis
 # mongo
 # httpd
-training/webapp:latest
+training/webapp
