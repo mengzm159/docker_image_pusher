@@ -15,4 +15,5 @@
 # mongo
 # httpd
 # cloudera/quickstart
-cloudera/clusterdock
+# cloudera/clusterdock
+openanolis/anolisos:8.6
