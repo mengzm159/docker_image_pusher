@@ -17,4 +17,5 @@
 # cloudera/quickstart
 # cloudera/clusterdock
 # openanolis/anolisos:8.6
-polardb/polardb_pg_local_instance
+# polardb/polardb_pg_local_instance
+polardb/polardb_pg_base
